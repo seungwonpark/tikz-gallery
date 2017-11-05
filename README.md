@@ -3,16 +3,16 @@ My small TikZ gallery
 
 ## koistudy-icon
 
-| Created    | Last Update | Description          | Source       |
-| ---------- | ----------- | -------------------- | ------------ |
-| 2017.06.07 | 2017.06.07  | Icon of koistudy.net | https://git.io/vFWk7 |
+| Created    | Last Update | Description          | Source               |
+| ---------- | ----------- | -------------------- | -------------------- |
+| 2016.09.01 | 2016.09.01  | Icon of koistudy.net | https://git.io/vFWk7 |
 
 ![](images/koistudy_icon.png)
 
 ## Square-wave
 
-| Created    | Last Update | Description                   | Source       |
-| ---------- | ----------- | ----------------------------- | ------------ |
+| Created    | Last Update | Description                   | Source               |
+| ---------- | ----------- | ----------------------------- | -------------------- |
 | 2017.06.07 | 2017.06.07  | Fourier Series of Square Wave | https://git.io/vHrAL |
 
 ![](http://i.imgur.com/l3GFf15.gif)
@@ -20,8 +20,8 @@ My small TikZ gallery
 ## JOI-style
 
 
-| Created    | Last Update | Description               | Source       |
-| ---------- | ----------- | ------------------------- | ------------ |
+| Created    | Last Update | Description               | Source               |
+| ---------- | ----------- | ------------------------- | -------------------- |
 | 2017.07.06 | 2017.07.06  | JOI style profile picture | https://git.io/vQwmS |
 
 
@@ -34,8 +34,8 @@ My small TikZ gallery
 
 ## imyeoni
 
-| Created    | Last Update | Description  | Source       |
-| ---------- | ----------- | ------------ | ------------ |
+| Created    | Last Update | Description  | Source               |
+| ---------- | ----------- | ------------ | -------------------- |
 | 2017.10.26 | 2017.10.26  | 이면이면이면이면이면이면 | https://git.io/vFfSo |
 
 
