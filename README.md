@@ -32,15 +32,6 @@ My small TikZ gallery
 
 
 
-## imyeoni
-
-| Created    | Last Update | Description  | Source               |
-| ---------- | ----------- | ------------ | -------------------- |
-| 2017.10.26 | 2017.10.26  | 이면이면이면이면이면이면 | https://git.io/vFfSo |
-
-
-![](https://i.imgur.com/Jc5L5VY.gif)
-
 ## Taeguekgi(태극기)
 
 | Created    | Last Update | Description  | Source               |
