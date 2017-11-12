@@ -15,7 +15,7 @@ My small TikZ gallery
 | ---------- | ----------- | ----------------------------- | -------------------- |
 | 2017.06.07 | 2017.06.07  | Fourier Series of Square Wave | https://git.io/vHrAL |
 
-![](http://i.imgur.com/l3GFf15.gif)
+![](images/square-wave.gif)
 
 ## JOI-style
 
