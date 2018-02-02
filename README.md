@@ -39,3 +39,11 @@ My small TikZ gallery
 | 2017.11.12 | 2017.11.12  | TikZ로 그린 태극기 | https://git.io/vFw18 |
 
 ![](images/taegeukgi.png)
+
+## Rotating cube
+
+| Created    | Last Update | Description  | Source               |
+| ---------- | ----------- | ------------ | -------------------- |
+| 2018.02.03 | 2018.02.03  | Rotating cube with perspective view | https://git.io/vNNWv |
+
+![](images/cube.gif)
